@@ -8,9 +8,8 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on work in Top MNC Companies
 - 🤔 I’m looking for help with Full Stack developers
-- 💬 Ask me about Cricket I'm yours
-- 📫 How to reach me: Search Hruthikvadde17 in Instagram
-- 😄 Pronouns: ...
+- 💬 Ask me about Football I'm yours
+- 📫 How to reach me: Search Hruthik_vadde in Instagram
+- 😄 Pronouns:...
 - ⚡ Fun fact: I'm Focused
